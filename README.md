@@ -8,7 +8,7 @@ This repository contains my end-to-end practice with NumPy, covering beginner to
 The goal of this project is to strengthen my understanding of NumPy for data analysis and scientific computing.
 
 📂 Contents
-- numpy_practice.py → All exercises solved step by step
+- Numpy.py → All exercises solved step by step
 - Organized by levels:
 - Beginner
 - Intermediate
